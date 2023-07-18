@@ -9,5 +9,5 @@
     - Gathering Insights;
 
 ## Deck
-[Data Visualization Using Spreadsheet](https://docs.google.com/spreadsheets/d/1GnSPqkoZpMjLUsnxYFwZT9z_UnN1PjrB/edit?usp=drive_link&ouid=108223100716859257638&rtpof=true&sd=true
+[Data Visualization Using Spreadsheet](https://docs.google.com/spreadsheets/d/1GnSPqkoZpMjLUsnxYFwZT9z_UnN1PjrB/edit?usp=drive_link&ouid=108223100716859257638&rtpof=true&sd=true)
 
